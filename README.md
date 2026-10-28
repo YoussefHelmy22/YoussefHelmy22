@@ -38,7 +38,7 @@ I enjoy turning ideas and data into practical, useful software.
 
 ## 🚀 Featured Projects
 
-### 📊 YouTube Video Analytics & K-Means Clustering
+### 📊 [YouTube Video Analytics & K-Means Clustering](https://github.com/YoussefHelmy22/YouTube-KMeans-Clustering)
 **Python · pandas · scikit-learn · YouTube Data API · Gradio**
 
 - Collected and cleaned video engagement data using the YouTube Data API.
